@@ -1,0 +1,15 @@
+{
+    "properties":[
+        {
+            "name":"elasticsearch.cluster.name",
+            "type":"java.lang.String",
+            "description":"Elasticsearch cluster name"
+        },
+        {
+            "name":"elasticsearch.cluster.host",
+            "type":"java.lang.String",
+            "description":"Elasticsearch cluster host"
+        }
+
+    ]
+}

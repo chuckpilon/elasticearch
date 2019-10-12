@@ -1,0 +1,10 @@
+target
+.classpath
+.settings
+.project
+*.log
+*.swp
+*.diff
+.metadata
+.env
+.vscode/
