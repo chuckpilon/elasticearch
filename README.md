@@ -6,7 +6,7 @@
 
 To populate the data
 
-1. Make sure the Docker container for Elasticsearch is running. See [https://bitbucket.org/readyplay/dev-deployment/src/master/README.md]().
+1. Make sure the Docker container for Elasticsearch is running.
 1. Run the following
 
 	```
